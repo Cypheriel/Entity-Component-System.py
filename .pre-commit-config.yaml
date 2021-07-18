@@ -36,5 +36,5 @@ repos:
 
 exclude: |
   (?x)^(
-      ./noxfile.py
+      noxfile.py
   )$
