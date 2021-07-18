@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ecs"
+version = "0.1.0"
+description = ""
+authors = ["Mikel <Mikel@hanger-84.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+nox = "^2021.6.12"
+black = "^21.7b0"
+mypy = "^0.910"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
