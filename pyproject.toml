@@ -2,7 +2,7 @@
 name = "ecs"
 version = "0.1.0"
 description = ""
-authors = ["Mikel <Mikel@hanger-84.com>"]
+authors = ["Mikel <email@email.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
